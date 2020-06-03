@@ -1,4 +1,4 @@
-# DenoTheDino
+# DenoTheDino [WIP]
 
 ## Pre-Requisites  
 +`Deno 1.0.4` 
