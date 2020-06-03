@@ -2,6 +2,8 @@
 
 ## Pre-Requisites  
 +`Deno 1.0.4` 
++`Denon`
++`PostgreSQL`
 
 ## Installing Deno 
 ### Shell (Mac, Linux):
